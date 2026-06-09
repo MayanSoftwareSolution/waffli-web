@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.waffli.app",
+      "sha256_cert_fingerprints": [
+        "A9:79:2F:23:87:FD:A6:8C:D0:EE:D4:29:FF:CD:EF:28:D7:95:80:12:0A:36:D7:AD:47:7B:98:E5:EC:05:8C:F1"
+      ]
+    }
+  }
+]
